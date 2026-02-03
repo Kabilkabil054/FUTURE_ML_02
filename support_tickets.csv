@@ -1,0 +1,121 @@
+ticket_text,category,priority
+App crashes on startup,Technical,High
+Payment failed but amount deducted,Billing,Medium
+Unable to reset password,Account,Low
+Login page not loading,Technical,Medium
+Refund not received,Billing,Low
+How to change email address,Account,High
+OTP not received,Technical,Low
+Charged twice for same order,Billing,High
+Forgot my password,Account,Medium
+Application freezes frequently,Technical,High
+Invoice not generated,Billing,Medium
+Account verification failed,Account,Low
+Screen goes blank suddenly,Technical,Medium
+Promo code not applied,Billing,Low
+Change phone number,Account,High
+App takes too long to load,Technical,Low
+Wallet balance not updated,Billing,High
+Delete my account,Account,Medium
+Error while submitting form,Technical,High
+Extra charges applied,Billing,Medium
+Update profile details,Account,Low
+Notifications not working,Technical,Medium
+Subscription charged after cancellation,Billing,Low
+Username not available,Account,High
+Unable to upload files,Technical,Low
+Payment gateway error,Billing,High
+Unable to login to account,Account,Medium
+App closes automatically,Technical,High
+Incorrect refund amount,Billing,Medium
+Deactivate account request,Account,Low
+App crashes on startup,Technical,Medium
+Payment failed but amount deducted,Billing,Low
+Unable to reset password,Account,High
+Login page not loading,Technical,Low
+Refund not received,Billing,High
+How to change email address,Account,Medium
+OTP not received,Technical,High
+Charged twice for same order,Billing,Medium
+Forgot my password,Account,Low
+Application freezes frequently,Technical,Medium
+Invoice not generated,Billing,Low
+Account verification failed,Account,High
+Screen goes blank suddenly,Technical,Low
+Promo code not applied,Billing,High
+Change phone number,Account,Medium
+App takes too long to load,Technical,High
+Wallet balance not updated,Billing,Medium
+Delete my account,Account,Low
+Error while submitting form,Technical,Medium
+Extra charges applied,Billing,Low
+Update profile details,Account,High
+Notifications not working,Technical,Low
+Subscription charged after cancellation,Billing,High
+Username not available,Account,Medium
+Unable to upload files,Technical,High
+Payment gateway error,Billing,Medium
+Unable to login to account,Account,Low
+App closes automatically,Technical,Medium
+Incorrect refund amount,Billing,Low
+Deactivate account request,Account,High
+App crashes on startup,Technical,Low
+Payment failed but amount deducted,Billing,High
+Unable to reset password,Account,Medium
+Login page not loading,Technical,High
+Refund not received,Billing,Medium
+How to change email address,Account,Low
+OTP not received,Technical,Medium
+Charged twice for same order,Billing,Low
+Forgot my password,Account,High
+Application freezes frequently,Technical,Low
+Invoice not generated,Billing,High
+Account verification failed,Account,Medium
+Screen goes blank suddenly,Technical,High
+Promo code not applied,Billing,Medium
+Change phone number,Account,Low
+App takes too long to load,Technical,Medium
+Wallet balance not updated,Billing,Low
+Delete my account,Account,High
+Error while submitting form,Technical,Low
+Extra charges applied,Billing,High
+Update profile details,Account,Medium
+Notifications not working,Technical,High
+Subscription charged after cancellation,Billing,Medium
+Username not available,Account,Low
+Unable to upload files,Technical,Medium
+Payment gateway error,Billing,Low
+Unable to login to account,Account,High
+App closes automatically,Technical,Low
+Incorrect refund amount,Billing,High
+Deactivate account request,Account,Medium
+App crashes on startup,Technical,High
+Payment failed but amount deducted,Billing,Medium
+Unable to reset password,Account,Low
+Login page not loading,Technical,Medium
+Refund not received,Billing,Low
+How to change email address,Account,High
+OTP not received,Technical,Low
+Charged twice for same order,Billing,High
+Forgot my password,Account,Medium
+Application freezes frequently,Technical,High
+Invoice not generated,Billing,Medium
+Account verification failed,Account,Low
+Screen goes blank suddenly,Technical,Medium
+Promo code not applied,Billing,Low
+Change phone number,Account,High
+App takes too long to load,Technical,Low
+Wallet balance not updated,Billing,High
+Delete my account,Account,Medium
+Error while submitting form,Technical,High
+Extra charges applied,Billing,Medium
+Update profile details,Account,Low
+Notifications not working,Technical,Medium
+Subscription charged after cancellation,Billing,Low
+Username not available,Account,High
+Unable to upload files,Technical,Low
+Payment gateway error,Billing,High
+Unable to login to account,Account,Medium
+App closes automatically,Technical,High
+Incorrect refund amount,Billing,Medium
+Deactivate account request,Account,Low
